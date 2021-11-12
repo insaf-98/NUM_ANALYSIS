@@ -7,6 +7,10 @@
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
 - [TP1][TP1]
+- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/insaf-98/NUM_ANALYSIS/blob/main/TP1.ipynb/TP)
+- .. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/insaf-98/NUM_ANALYSIS/blob/main/TP1.ipynb/TP
+- https://mybinder.org/v2/gh/insaf-98/NUM_ANALYSIS/blob/main/TP1.ipynb/TP
 - [TP2][TP2]
 - [TP3][TP3]
 - [Capstone ou Mini Projet ou QCM](#Capstone)
